@@ -4,3 +4,6 @@ Para solucionar sus errores decidio borrar todo e iniciar desde cero.
 ahora esta tomando apuntes mas especificos de toda la linea de comando que usara en este proyecto de crear el repositorio, intercambiar raices y vincular con la web.
 
 hasta ahora vamos viento en popa. este tercer parrafo lo agrego a modo de modificar el archivo al escribir "codehistoria.txt" para probar la opoci'on de modificar archivos abriendo el editor de texto
+
+agregamos un cuarto parrafo para probar git show que permite comparar versiones y ver especificamente como cambian entre si.
+

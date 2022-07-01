@@ -8,3 +8,5 @@ hasta ahora vamos viento en popa. este tercer parrafo lo agrego a modo de modifi
 agregamos un cuarto parrafo para probar git show que permite comparar versiones y ver especificamente como cambian entre si.
 
 reagrego un 5 parrafo para generar un cambio equis
+
+Agregando un sexto parrafo equis para sdeguir aprendiendo

@@ -10,3 +10,5 @@ agregamos un cuarto parrafo para probar git show que permite comparar versiones 
 reagrego un 5 parrafo para generar un cambio equis
 
 Agregando un sexto parrafo equis para sdeguir aprendiendo
+
+septimo parrafo

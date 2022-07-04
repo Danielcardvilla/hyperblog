@@ -5,6 +5,8 @@ ahora esta tomando apuntes mas especificos de toda la linea de comando que usara
 
 hasta ahora vamos viento en popa. este tercer parrafo lo agrego a modo de modificar el archivo al escribir "codehistoria.txt" para probar la opoci'on de modificar archivos abriendo el editor de texto
 
+EXPIREMENTO 1
+
 MASTER 1
 
 Master 2

@@ -5,6 +5,8 @@ ahora esta tomando apuntes mas especificos de toda la linea de comando que usara
 
 hasta ahora vamos viento en popa. este tercer parrafo lo agrego a modo de modificar el archivo al escribir "codehistoria.txt" para probar la opoci'on de modificar archivos abriendo el editor de texto
 
+MASTER 1
+
 agregamos un cuarto parrafo para probar git show que permite comparar versiones y ver especificamente como cambian entre si.
 
 reagrego un 5 parrafo para generar un cambio equis

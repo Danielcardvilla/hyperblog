@@ -7,6 +7,8 @@ hasta ahora vamos viento en popa. este tercer parrafo lo agrego a modo de modifi
 
 MASTER 1
 
+Master 2
+
 agregamos un cuarto parrafo para probar git show que permite comparar versiones y ver especificamente como cambian entre si.
 
 reagrego un 5 parrafo para generar un cambio equis
